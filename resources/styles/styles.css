@@ -1,11 +1,44 @@
 img {
-  height: 100%;
-  width: 100%;
-  object-fit: contain;
+  height: 30%;
+  width: 30%;
   padding-bottom: 50px;
 }
 
-.container {
-  height: 300px;
-  width: 300px;
+.section {
+  width: 700px;
+  height: 200px;
+  padding-bottom: 25px;
+}
+
+#personalBackground {
+  margin: auto;
+  float: right;
+  padding-left: 75px;
+}
+
+#experience {
+  margin: auto;
+  float: right;
+  padding-left: 75px;
+  position: relative;
+  top: -300px;
+
+}
+
+#programmingLanguages {
+  margin: auto;
+  float: right;
+  padding-left: 75px;
+  position: relative;
+  top: -350px;
+}
+
+#achievements {
+  padding-bottom: 0%;
+}
+
+#games {
+  margin: 15px;
+  display: block;
+  padding-top: 5px;
 }
