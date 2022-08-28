@@ -23,10 +23,10 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 - [x] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
-I should get (20) out of 20 on this assignment.
+I should get (19) out of 20 on this assignment.
 
 ## Self-Reflection:
-I had trouble with the staging aspect of the assignment, but now I beleive I know how to successfully stage commits. I have never staged commits before, so this was a good learning experience to practice that. 
+I had trouble with the staging aspect of the assignment, but now I beleive I know how to successfully stage commits. I have never staged commits before, so this was a good learning experience to practice that. I am not entirely sure if I staged the commits correctly which is why I did not give myself a 20/20. I also had a little trouble setting up Github pages but I was able to figure it out eventually. 
 
 ### How long it took me to finish this?
 2-3 hours with breaks in between
